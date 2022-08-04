@@ -4,9 +4,9 @@
 - [Mamunur Rashid](https://mamunverse.com/)
 
 
-# Businesian - Multipurpose Business HTML Template
+# Symphony- Multipurpose Business HTML Template
 
-Businesian is Bootstrap based powerful Responsive Multipurpose HTML5 website template. It is 100% responsive and looks stunning on all types of startup, digital agency, Marketing, Portfolio, Design Firm, IT firm and Tech Entrepreneurs business etc. Businesian is mixed between modern, classic, Creative and Clean styles with better ui and ux. Businesian is a perfect choice for your business. Users will love Your site because it gives them a unique user experience(UX) and User Interface (UI).
+Symphony is Bootstrap based powerful Responsive Multipurpose HTML5 website template. It is 100% responsive and looks stunning on all types of startup, digital agency, Marketing, Portfolio, Design Firm, IT firm and Tech Entrepreneurs business etc. Symphony is mixed between modern, classic, Creative and Clean styles with better ui and ux. Symphony is a perfect choice for your business. Users will love Your site because it gives them a unique user experience(UX) and User Interface (UI).
 
 ## Demo
 [Live Demo](https://mamunverse.github.io/Symphony-Multipurpose-Business-HTML-Template/)
