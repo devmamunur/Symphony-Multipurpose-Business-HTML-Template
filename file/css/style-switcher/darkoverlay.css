@@ -1,0 +1,18 @@
+.for-s1 .intro-area .main-overly,
+#gateIntuch .overlay,
+.count-overlay,
+#address .overlay
+{
+  background: #000;
+  opacity: 0.7;
+}
+
+.item-thumbnail::before,
+.team_slider_item_info,
+#address .box
+{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.intro-area .main-overly{
+  background-color: rgba(0, 0, 0, 0.7)!important;
+}

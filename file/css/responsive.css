@@ -1,0 +1,1067 @@
+/*Css for Large Device*/
+@media  (max-width: 1199.98px) {
+#pricing .s-h-p {
+    margin-bottom: 28px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #servicepart .s-h-p {
+        margin-bottom: 2px;
+    }
+    #about h4 {
+        margin-bottom: 14px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #team .s-h-p {
+        margin-bottom: 0px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+  
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+    #clientpart .s-h-p {
+        margin-bottom: 3px;
+    }
+    .layer-1-2 h1 {
+        font-size: 46px;
+    }
+    .layer-1-1 p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .layer-1-2 {
+        margin: 0px 0px 10px;
+    }
+    .intro-area .content {
+        padding: 231px 0px 250px;
+    }
+    #about {
+        padding: 91px 0px 108px;
+    }
+    #gateIntuch h2 {
+        font-size: 46px;
+    }
+    #gateIntuch p {
+        font-size: 24px;
+        line-height: 34px;
+        margin-top: 27px;
+        margin-bottom: 20px;
+    }
+
+
+
+}
+
+/*Css for Medium Device*/
+@media  (max-width: 991.98px) {
+    .nav-item.dropdown .dropdown-menu {
+        display: none;
+        top: auto;
+        opacity: 1;
+        background: #fff;
+        position: relative;
+        z-index: -99;
+        visibility: visible;
+        -webkit-transition: all linear .3s;
+        -moz-transition: all linear .3s;
+        -ms-transition: all linear .3s;
+        -o-transition: all linear .3s;
+        transition: all linear .3s;
+    }
+    .nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+        top: auto;
+        opacity: 1;
+        z-index: 1;
+        visibility: visible;
+    
+    }
+    #navbarSupportedContent ul {
+        padding: 23px 0px 19px;
+    }
+    .contact-form-area.footer-widget {
+        margin-top: 31px;
+    }
+    .address-area.footer-widget {
+        margin-top: 31px;
+    }
+    .footertext {
+        padding-bottom: 85px;
+    }
+    #counterpart {
+        padding: 150px 0px 99px;
+    }
+    #about {
+        padding: 91px 0px 106px;
+    }
+    .navigation {
+        background: #fff;
+        padding: 7px 0px 7px;
+    }
+    .navigation .navbar-nav .nav-item .nav-link {
+        line-height: 26px;
+    }
+    .navigation .nav-item .nav-link {
+        padding: 5px 15px 5px;
+    }
+
+    .layer-1-1 p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .intro-area .content {
+        padding: 190px 0px 200px;
+    }
+    #home .contact-info .t-border {
+        display: none;
+    }
+    .contact-info a {
+        font-size: 16px;
+        display: block;
+    }
+    #home .socal-link i {
+        font-size: 16px;
+    }
+    .socal-link {
+        line-height: 48px;
+    }
+    .navigation .nav-item .nav-link::after {
+        display: none;
+    }
+    #address .box {
+        margin-bottom: 30px;
+    }
+    #about h4 {
+        margin-bottom: 15px;
+    }
+    #address {
+        padding: 100px 0px 70px;
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .layer-1-2 h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .layer-1-2 {
+        margin: 0px 0px 41px;
+    }
+    #about .about-img {
+        margin-bottom: 22px;
+    }
+    #pricing .sm-mt-30 {
+        margin-top: 22px;
+    }
+    .navigation .logo-sm {
+        display: block !important;
+    }
+    /* ============ */
+    .card {
+        margin-bottom: 15px;
+    }
+    .card p {
+        font-size: 14px;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .businessplantext {
+        margin-top: 2%;
+    }
+    .bannertext h5 {
+        margin-bottom: 5px;
+    }
+    #counterpart h5 {
+        margin-bottom: 49px;
+    }
+    #contactuspart p {
+        margin-bottom: 30px;
+    }
+    .contactbg {
+        padding: 28px 15px 0px;
+    }
+
+    .copy-bg p {
+        margin-bottom: 0px !important;
+    }
+    .portfolio-item {
+        width: 50%;
+    }
+    #businessplan {
+        display: none;
+    }
+    /*footer part end*/
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+   
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #pricing .price {
+        margin-top: 17px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+  
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+
+    .why-choose-thumb a img {
+        width: 100%;
+    }
+    #blog .single-post .blog-post-img img {
+        width: 100%;
+    }
+    .navigation.stiky-nav .form-input {
+        background: none;
+        display: inline-block;
+        height: 100%;
+        padding: 5px;
+        border: 0px;
+        color: #f1f1f1;
+    }
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+    .intro-area .layer-1-3 {
+        margin-top: 43px;
+    }
+    #gateIntuch h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    #gateIntuch p {
+        font-size: 24px;
+        line-height: 34px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    #gateIntuch {
+        padding: 139px 0px 150px;
+    }
+
+
+
+}
+
+/*Css for Small Device*/
+@media  (max-width: 767.98px) {
+    #home .contact-info {
+        text-align: center;
+    }
+    #home .socal-link {
+        text-align: center;
+    }
+    #counterpart p {
+        font-size: 40px;
+    }
+    .layer-1-2 h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .why-choose-text h3 a {
+        font-size: 21px;
+    }
+
+    #servicepage .s-video-bottom-content h5 {
+        font-size: 21px;
+        font-weight: 500;
+    }
+    #servicepage #about h5 {
+        font-weight: 500;
+        font-size: 21px;
+    }
+    .portfolio-details .conetnt h5 {
+        font-size: 21px;
+        font-weight: 500;
+    }
+    .sidebar .search-form input {
+        margin-top: 34px;
+    }
+    .top-header {
+        padding: 14px 0px 2px;
+    }
+    #about h4 {
+        margin-top: 22px;
+    }
+    #about h4 {
+        margin-bottom: 20px;
+    }
+    #gateIntuch h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    #gateIntuch p {
+        font-size: 20px;
+        line-height: 28px;
+        margin-top: 32px;
+        margin-bottom: 20px;
+    }
+    #gateIntuch {
+        padding: 140px 0px 150px;
+    }
+    .protfolio-filter li {
+        width: 150px;
+        height: 50px;
+        line-height: 33px;
+        margin-bottom: 10px;
+    }
+    .protfolio-filter {
+        margin-bottom: 20px;
+    }
+    #counterpart .fun-fact {
+        margin-bottom: 19px;
+    }
+    #address {
+        padding: 100px 0px 70px;
+    }
+    .price {
+        margin-top: 20px;
+    }
+    #counterpart {
+        padding: 150px 0px 110px;
+    }
+    #style-switcher{
+        display: none;
+    }
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    #pricing .sm-mt-30 {
+        margin-top: 22px;
+    }
+
+    .slider-images img {
+        height: 340px;
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+    .card p {
+        font-size: 14px;
+    }
+    .card-title {
+        font-size: 18px;
+    }
+    .bannertext h5 {
+        margin-bottom: 5px;
+    }
+    .sm-mt-30 {
+        margin-top: 30px;
+    }
+    .modal-body p {
+        padding-top: 15px;
+    }
+
+    #counterpart h5 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    #contactuspart p {
+        margin-bottom: 30px;
+    }
+    .contactbg {
+        padding: 28px 15px 0px;
+    }
+    .copy-bg p {
+        margin-bottom: 0px !important;
+    }
+    .portfolio-item {
+        width: 100%;
+        padding: 0;
+    }
+    .portfolio-item+.portfolio-item {
+        margin-top: 10px;
+    }
+    #businessplan {
+        display: none;
+    }
+
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+    #team h2 {
+        margin-bottom: 14px;
+    }
+
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+ 
+    .protfolio-filter li {
+        padding: 7px 15px;
+    }
+   
+    #accordion-2 {
+        margin-top: 30px;
+    }
+
+    #map {
+        height: 400px;
+    }
+    #footerbg {
+        padding: 68px 0 0;
+    }
+    .footertext {
+        padding-bottom: 58px;
+    }
+
+
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    #servicepage .s-bottom-content-2{
+        margin-top: 40px;
+    }
+    #servicepage #about {
+        padding: 60px 0px 98px;
+    }
+    .portfolio-details .info {
+        margin-top: 50px;
+    }
+    .portfolio-details .bottom-info .tags, .portfolio-details .bottom-info .share {
+        float: left;
+        width: 100%;
+    }
+    .portfolio-details .bottom-info .share {
+        text-align: left;
+        margin-top: 15px;
+    }
+    
+    #forzerofour h2{
+        font-size: 100px!important;
+      }
+    #forzerofour h3{
+        font-size: 20px;
+      }
+      .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .slide-caption .slider-inner .caption-title {
+        margin-bottom: 20px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    .intro-area.parallaximg {
+        z-index: -9;
+    }
+    .creative1{
+        -moz-clip-path: polygon(50% 0%, 100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
+        -webkit-clip-path: polygon(50% 0%, 100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
+        clip-path: polygon(50% 0%, 100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
+    }
+    .intro-area {
+        z-index: -1;
+    }
+    .navigation .logo-sm {
+        display: block !important;
+        padding-left: 15px;
+    }
+    .slider-images img {
+        height: 300px;
+    }
+    .slider-content {
+        margin-top: -131px;
+    }
+    .why-choose-thumb a img {
+        width: 100%;
+    }
+    #blog .single-post .blog-post-img img {
+        width: 100%;
+    }
+    .pl {
+        padding-left: 15px;
+    }
+    .bannertext h5 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+    .bannertext p {
+        font-size: 16px;
+        text-align: center;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .bannertext a {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .businessplantext h5 {
+        font-size: 20px;
+    }
+    .businessplantext p {
+        font-size: 16px;
+    }
+    .businessplantext {
+        margin-right: 15px;
+    }
+ 
+    .portfolio-item {
+        width: 100%;
+    }
+    .portfolio-item+.portfolio-item {
+        margin-top: 10px;
+    }
+    .modal-body p {
+        padding-top: 15px;
+    }
+
+    .pricing-category {
+        margin-bottom: 30px;
+    }
+    #counterpart h5 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+
+    .testimonial {
+        margin: 0px;
+        margin: 0px 15px;
+    }
+
+    .contactbg {
+        padding: 30px 15px 0px;
+    }
+    .footertext .manu {
+        margin-top: 30px;
+    }
+    #choose-us h2 {
+        margin-bottom: 14px;
+    }
+
+    #servicepart h2 {
+        margin-bottom: 13px;
+    }
+ 
+    #gallery h2 {
+        margin-bottom: 14px;
+    }
+
+    #testimonialpart h2 {
+        margin-bottom: 14px;
+    }
+ 
+    #pricing h2 {
+        margin-bottom: 14px;
+    }
+
+    #team h2 {
+        margin-bottom: 14px;
+    }
+   
+    #faq h2 {
+        margin-bottom: 14px;
+    }
+  
+    #blog h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        margin-bottom: 14px;
+        text-transform: uppercase;
+    }
+
+    #blog .single-post .blog-post-img .box {
+        padding: 5px 15px;
+    }
+    #clientpart h2 {
+        margin-bottom: 14px;
+    }
+ 
+    #accordion-2 {
+        margin-top: 30px;
+    }
+
+    #map {
+        height: 400px;
+    }
+
+    h2 {
+        font-size: 32px !important;
+    }
+    .protfolio-filter {
+        margin-bottom: 15px;
+    }
+
+    #about h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .comments-container .comments-list li {
+        background: #f3f3f3;
+        position: relative;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 15px;
+        min-height: 120px;
+        padding-top: 110px;
+       }
+       
+    #servicepage .s-aside{
+        margin-top: 40px;
+    }
+    #servicepage .s-bottom-content-2{
+        margin-top: 40px;
+    }
+
+    .portfolio-details .info {
+        margin-top: 50px;
+    }
+    .portfolio-details .bottom-info .tags, .portfolio-details .bottom-info .share {
+        float: left;
+        width: 100%;
+    }
+    .portfolio-details .bottom-info .share {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    #forzerofour h2{
+        font-size: 100px!important;
+      }
+    #forzerofour h3{
+        font-size: 20px;
+      }
+      .navigation.stiky-nav .logobg2 {
+        display: none;
+    }
+    .navigation.stiky-nav .logobg {
+        display: block;
+    }
+    .slide-caption .slider-inner .caption-title {
+        font-size: 22px;
+    line-height: 25px;
+    }
+    .slide-caption .slider-inner .caption-desc {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .slide-caption .slider-inner .caption-title {
+        margin-bottom: 20px;
+    }
+    .intro-area .owl-nav{
+        display: none;
+    }
+    .navigation .logobg {
+        padding-left: 15px;
+    }
+    .slide-caption .slider-inner .slide-btn a {
+        margin: 0px 5px;
+    }
+    .slide-btn a {
+        width: 125px;
+    }
+    #home .navbar {
+        padding: 0px 15px;
+    }
+    .navbar-light .navbar-toggler {
+        border: 0px;
+        padding: 0px;
+    }
+    .contact-info a {
+        font-size: 14px;
+    }
+    #home .socal-link i {
+        font-size: 14px;
+    }
+    .layer-1-2 h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .layer-1-1 p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .layer-1-2 {
+        margin: 0px 0px 20px;
+    }
+    .intro-area .content {
+        padding: 272px 0px 150px;
+    }
+    .why-choose-inner:hover {
+        margin-top: 0px;
+    }
+
+    #footerbg .manu.footer-widget h6{
+        margin-top: 10px;
+    }
+    #footerbg .manu.footer-widget h6 {
+        margin-top: 30px;
+    }
+    #about h4 {
+        margin-top: 23px;
+    }
+    .protfolio-filter li {
+        line-height: 48px;
+    }
+    .sidebar .search-form {
+        max-width: 100%;
+    }
+
+    .navbar-brand img {
+        width: 150px;
+    }
+    .mybtn1, 
+    .mybtn2
+    {
+        height: 50px;
+        line-height: 46px;
+        width: 170px;
+    }
+    #about .about-video {
+        margin-left: 20px;
+    }
+    .why-choose-text h3 a {
+        font-size: 22px;
+    }
+    #gateIntuch h2 {
+        font-size: 40px !important;
+        line-height: 50px;
+    }
+    .subscribeForm form {
+        width: 400px;
+    }
+    #counterpart {
+        padding: 100px 0px 80px;
+    }
+    #pricing {
+        padding: 92px 0px 70px;
+    }
+
+
+}
+
+
+@media (max-width: 490px){
+    .layer-1-2 h1 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    #gateIntuch h2 {
+        font-size: 34px !important;
+        line-height: 44px;
+    }
+    .subscribeForm form {
+        width: 340px;
+    }
+    .subscribeForm form button {
+        padding: 0px 30px;
+    }
+    .subscribeForm form input {
+        padding: 0px 160px 0px 25px;
+    }
+    #footer .fotterlogo img {
+        width: 160px;
+    }
+
+
+}
+
+
+
+@media (max-width: 426px) {
+    h2 {
+        font-size: 30px !important;
+    }
+}
+@media (max-width: 414px) {
+    h2 {
+        font-size: 26px !important;
+    }
+    #about h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .about-links .link {
+        padding: 15px 25px;
+        font-size: 14px;
+    
+    }
+    .about-video::before {
+        width: 80px;
+        height: 80px;
+    }
+    #about .about-video i {
+        color: #4285F4;
+        font-size: 20px;
+        line-height: 60px;
+    }
+    .testimonial h6 {
+        font-size: 18px;
+    }
+    .testimonial h5 {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .join a {
+        font-size: 14px;
+    }
+    .single-blog .blog-box h3 {
+        font-size: 21px;
+    }
+    .comments-form .btn-default {
+        padding: 12px 25px;
+    
+    }
+    .sidebar .sidebar-widget h4 {
+        font-size: 21px;
+    }
+   #forzerofour .btn-contact {
+        padding: 15px 28px;
+    }
+    #contact-main .contact-form h4 {
+        font-size: 24px;
+    }
+    #contact-main .contact-address h4 {
+        font-size: 24px;
+    }
+    .why-choose-text h3 a {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .contant h4 {
+        font-size: 18px;
+    }
+    #counterpart i {
+        width: 80px;
+        height: 80px;
+        font-size: 34px;
+        line-height: 80px;
+    }
+    #counterpart p {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .price-head h3 {
+        font-size: 18px;
+    }
+    .price-rate p {
+        color: #fff;
+        font-size: 24px;
+        padding-top: 15px;
+    }
+    .price-details p {
+        line-height: 28px;
+        margin-bottom: 0px;
+    }
+    .join h4 {
+        padding: 21px 0px 30px;
+    }
+    #gateIntuch h2 {
+        font-size: 26px !important;
+        line-height: 36px;
+    }
+    #gateIntuch p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-top: 14px;
+        margin-bottom: 16px;
+    }
+    #gateIntuch {
+        padding: 92px 0px 100px;
+    }
+    .video-play-button {
+        width: 18px;
+        height: 30px;
+        padding: 5px 0px 0px 4px;
+    }
+    .video-play-button::after {
+        width: 55px;
+        height: 55px;
+    }
+    .video-play-button::before {
+        width: 50px;
+        height: 50px;
+    }
+    #about {
+        padding: 91px 0px 112px;
+    }
+    .blogs .blog-box .blog-details h3 a {
+        font-size: 18px;
+      }
+      .subscribeForm form button {
+        top: 65px;
+        right: 0px;
+        width: 100%;
+    }
+    .subscribeForm form {
+        width: 100%;
+    }
+    .subscribeForm form {
+        margin: 50px 0px 115px;
+    }
+    .fotterSocialLinks li i {
+        font-size: 14px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    #address .box i {
+        font-size: 34px;
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 384px){
+   .intro-area .layer-1-3 .left-btn {
+    margin-right: 10px;
+} 
+.intro-area .mybtn1, .intro-area .mybtn2 {
+    width: 150px;
+}
+
+}
+@media (max-width: 344px){
+    .intro-area .layer-1-3 .left-btn {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    .intro-area .mybtn1, .intro-area .mybtn2 {
+        width: 160px;
+    }
+    .panel-default .panel-title::after{
+        display: none;
+    }
+    .panel-title {
+        padding: 15px 20px 16px 20px;
+    }
+    .panel-body {
+        padding: 25px 20px 24px;
+    }
+}

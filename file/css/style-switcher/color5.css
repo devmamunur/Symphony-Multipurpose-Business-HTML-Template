@@ -1,0 +1,131 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#about h2, 
+#gallery h2, 
+#aboutuspart h2, 
+#team h2, 
+#clientpart h2, 
+#pricing h2, 
+#latestnewspart h2, 
+#clientpart h2, 
+#testimonialpart h2, 
+#faq h2, 
+#blog h2, 
+#contactuspart h2,
+.mybtn1.hvr-right:hover, 
+.mybtn1.hvr-right:focus,
+.mybtn1.hvr-right.active,
+.navigation .nav-item .nav-link.active,
+.navigation .nav-item .nav-link:hover,
+.navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item.active,
+.layer-1-2 .color,
+.why-choose-text h3 a,
+#counterpart .fun-fact:hover i,
+.team_slider_item_info ul li a i:hover,
+.blogs .blog-box .blog-details .meta li a:hover,
+.blog-details .btn:hover,
+.blog-details .btn:hover i,
+#address .box:hover i,
+.contact-tab #pills-tab .nav-item .nav-link i,
+.contact-tab #pills-tab .nav-item .nav-link.active i,
+#footer .copy-bg a:hover,
+.subscribeForm form button,
+.blogs .blog-box .blog-details h3 a,
+.blogs .blog-box .blog-details h3 a:hover
+
+{
+    color: #4caf50;
+}
+
+
+
+
+.mybtn2.hvr-right:before,
+.top-header,
+.navigation  .nav-item .nav-link::after,
+.sarvicecard::after,
+a.btn-detail:hover,
+.video-play-button:before,
+.video-play-button:after,
+#about .owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev,
+#about .owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next,
+.price-rate,
+.panel-default .panel-title:after,
+.all_blogs.blogs .blog-box:hover .blog-images .box,
+.subscribeForm form button:hover,
+.bottomtotop i,
+#style-switcher h2 a
+{
+  background: #4caf50;
+}
+
+.ready-btn,
+.video-play-button:hover:after,
+.about-links .link 
+{
+  background-color: #4caf50;
+  
+}
+
+.for-s1 .intro-area .main-overly,
+#gateIntuch .overlay,
+.count-overlay,
+#address .overlay
+{
+  background: #4caf50;
+  opacity: 0.6;
+}
+.intro-area .main-overly,
+.item-thumbnail::before,
+.team_slider_item_info,
+#address .box
+{
+  background-color: rgba(76, 175, 80, 0.6);
+}
+
+#about .owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
+#about .owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover
+{
+    border-color: #4caf50;
+}
+
+.mybtn1 
+{    
+  background: #4caf50;
+  border: 2px solid #4caf50;
+}
+
+.blog-btn 
+{    
+  border: 2px solid #4caf50;
+  background: linear-gradient(to right, #4caf50, #4caf50) no-repeat;
+}
+
+.slick-dots li.slick-active button 
+{
+  background: #4caf50;
+  border: 1px solid #4caf50;
+}
+
+.slick-prev::before,
+.slick-next::before
+{
+  color: #4caf50;
+  border: 2px solid #4caf50;
+
+}
+
+.slick-prev:hover::before, 
+.slick-prev:focus::before, 
+.slick-next:hover::before, 
+.slick-next:focus::before {
+  background: #4caf50;
+  border-color: #4caf50;
+
+}
